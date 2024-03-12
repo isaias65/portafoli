@@ -30,6 +30,9 @@ header{
     align-items: center;
     justify-content: space-between;
     padding: 1em;
+    position: sticky;
+    z-index: 1;
+    top: 0;
 }
 
 header a i{
